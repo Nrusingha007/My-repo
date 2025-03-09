@@ -1,4 +1,4 @@
 # My-repo
 This is a repository.
 <br>
-Author-Nrusingha Prasad
+Author-Nrusingha (Prasad)
